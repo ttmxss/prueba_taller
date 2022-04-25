@@ -1,0 +1,13 @@
+.body{
+    padding: 100px;
+    width: 500px;
+    padding: 40px;
+    background-color: rgb(139, 139, 139);
+    margin: 100px;
+    margin-left: 500px;
+    border-radius: 15px;
+}
+
+h4{
+    text-align: center;
+}
